@@ -12,10 +12,10 @@
   summary: >- # This means to ignore newlines until the next attribute. This summary is used for the overlay card content. 
     Guido van Rossum, the creator of our beloved programming language, states that “Python is an experiment in how much 
     freedom programmers need”. But have you ever wondered what the implications of such freedom are?
-    In this talk, we will have a look at the Python “built-in guidelines” on how to write pythonic code, also known as
+    <br> In this talk, we will have a look at the Python “built-in guidelines” on how to write pythonic code, also known as
     The Zen of Python, written by Tim Peters. I will use concepts present on the book Gödel, Escher, Bach: An eternal 
     Golden Braid (written by Douglas Hofstadter) to explain meaning and relate it to Freedom (both in life and coding)
-    and the human nature of biased perspective.
+    and the human nature of biased perspective. </br>
 
 # Second Dummy project
 - title: Not a Task Tracker
