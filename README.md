@@ -55,37 +55,6 @@ This is a Jekyll website template designed for Pre Fellowship Fellows. This will
 
 Head to `_data` and fill out files `projects.yml`, `experience.yml`, `education.yml` and `recommendation.yml`.
 
-
-Project example.
-```yaml
-- title: Machine Learning Project
-  event: MLH Fellowship Pre Fellowship - Batch 3.5
-  date: Fall 2020
-```
-
-Experience example.
-```yaml
-- role: Pre Fellowship Fellow
-  company: MLH Fellowship
-  dates: Summer 2021
-  logo: fellowship.svg
-```
-
-Education example.
-```yaml
-- course: Pre Fellowship Fellow
-  institute: MLH Fellowship
-  dates: Summer 2021
-  logo: fellowship.svg
-```
-
-Recommendation example.
-```yaml
-- title: HackTheMidlands
-  author: Robbie
-  text: Top Zoom Host
-  date: Summer 2021
-```
 ## Add project posts
 
 1. Make a new `.md` file inside of `projects`.
@@ -143,8 +112,3 @@ bundle install
 bundle exec jekyll serve --livereload
 ```
 note: If flag --livereload gives you an error don't use it.
-
-
-### It should look like something like this:
-
-![template screenshot](/assets/img/portfolio.png)
