@@ -13,7 +13,7 @@ social:
 sass:
   sass_dir: _sass
 
-icon: /assets/img/icon.jpg
+icon: /assets/img/favicon.ico
 
 # your google analytics tag goes here
 # how to get your analytics tag?
