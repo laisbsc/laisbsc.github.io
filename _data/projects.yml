@@ -1,12 +1,12 @@
-- title: Task Tracker
-  event: MLH Fellowship Pre Fellowship Project
-  date: Summer 2021  - Batch 3.5
-  page-name: project
+- title: Python and Freedom and Bias
+  event: PyCon Italia 2024
+  date: May 2024
+  page-name: talks
   
   # Optional links
-  github: https://github.com/
-  external_link: https://github.com/
-  video_demo: https://github.com/
+  github: https://github.com/laisbsc/
+  external_link: https://2024.pycon.it/en/event/python-and-freedom-and-bias
+  video_demo: https://www.youtube.com/watch?v=RiqWAyE1McM&pp=ygUacHljb24gaXRhbGlhIGxhaXMgY2FydmFsaG8%3D
   
   id: 1
   summary: >- # This means to ignore newlines until the next attribute. This summary is used for the overlay card content. 
