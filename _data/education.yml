@@ -1,10 +1,10 @@
-- course: BSc Computer Science
-  institute: University of Birmingham
-  dates: 2018 - 2021
-  logo: uob.png
+- course: BSc Information Technology
+  institute: College of Computing Technology
+  dates: 2017 - 2021
+  logo: cct.jpg
   
-- course: Pre Fellowship Fellow
-  institute: MLH Fellowship
-  dates: Summer 2021
-  logo: fellowship.svg
+- course: General Engineering - Visiting Student
+  institute: Trinity College Dublin
+  dates: 2015 - 2016
+  logo: tcd_light.jpg
   
