@@ -1,4 +1,14 @@
-- role: Pre Fellowship Fellow
-  company: MLH Fellowship
-  dates: Summer 2021
-  logo: fellowship.svg
+- role: Software Developer
+  company: Workday Inc.
+  dates: 2018 - present
+  logo: workday.png
+
+- role: Developer Advocate
+  company: Quansight Consulting
+  dates: 2020 - 2022
+  logo: quansight_logo.jpg
+
+- role: Developer Advocate
+  company: Quantum Black, a McKinsey & Co. unit
+  dates: 2020
+  logo: quantumblack_dark.png
