@@ -18,7 +18,7 @@
     and the human nature of biased perspective. </br>
 
 # Project 2
-- title: Community Conferences under the Hood. Perspectives and Best Practices in Volunteer Organization
+- title: Community Conferences under the Hood, Perspectives and Best Practices in Volunteer Organization
   event: PyCon DE 2024 - Berlin
   date: April 2024
   page-name: project
@@ -36,9 +36,9 @@
 
 # Project 3
 - title: Humble Data Workshops for underrepresented minorities in tech
-  event: Several
+  event: Several events
   date: 2021 onwards
-  page-name: project
+  page-name:
 
   # Optional links
   github:
@@ -51,3 +51,26 @@
     <br> Humble Data aims at lowering the entry-barrier for underrepresented
     minorities into technology, specifically Python and Data Science.</br>
     <br> I have organised workshops at: EuroPython Dublin 2022 and 2023, PyCon Spain 2023, PyCon Italy 2024, PyCon DE 2024. </br>
+
+# Project 4
+- title: From Data-driven to people-driven, Leading with empathy in Tech
+  event: Woman in DevOps
+  date: May 2023
+  page-name:
+
+  # Optional links
+  github:
+  external_link: https://www.meetup.com/women-in-devops/events/293293768/?eventOrigin=group_events_list
+  video_demo:
+
+  id: 4
+  summary: >- # This means to ignore newlines until the next attribute
+    The event was aimed at people who were looking to form meaningful new connections, learn how to make a positive
+    difference of your own, and hear from key voices working inside the tech space today. The key takeaways were:
+        <br> Define the meaning of an equitable world </br>
+        <br> Explore the benefits of achieving equity in the modern workplace </br>
+        <br> Highlight the power of active advocacy </br>
+        <br> Discuss the role of collective activism </br>
+        <br> Find out which steps the tech industry can take next </br>
+        <br> Envision an equitable future for all </br>
+    
