@@ -1,5 +1,5 @@
 ---
-title: My Project
+title: Python and Freedom and Bias
 layout: page
 ---
 
