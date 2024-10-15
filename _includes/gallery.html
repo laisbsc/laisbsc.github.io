@@ -1,10 +1,22 @@
 <div id="gallery-container"></div>
 
 <script>
-  fetch('https://laisbsc.github.io/horcrux/')
-    .then(response => response.text())
-    .then(html => {
-      document.getElementById('gallery-container').innerHTML = html;
-    })
-    .catch(error => console.log('Error fetching gallery:', error));
+  document.addEventListener("DOMContentLoaded", function() {
+    const galleryContainer = document.getElementById('gallery-container');
+
+    fetch('https://laisbsc.github.io/horcrux/')
+      .then(response => {
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        return response.text();
+      })
+      .then(html => {
+        galleryContainer.innerHTML = html;  // Inject the external gallery content
+      })
+      .catch(error => {
+        console.error('Error fetching gallery:', error);
+        galleryContainer.innerHTML = "<p>Failed to load gallery.</p>";  // Fallback content
+      });
+  });
 </script>
